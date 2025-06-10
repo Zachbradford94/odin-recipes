@@ -1,0 +1,1 @@
+This is a really simple project inspired by Odin. I am creating a recipe website and hope to be able to post it onto GitHub afterwards.
